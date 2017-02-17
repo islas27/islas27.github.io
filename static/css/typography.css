@@ -45,12 +45,12 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 }
-@media screen and (min-width:40em) {
+/*@media screen and (min-width:40em) {
 	html {
 		font-size: 18px;
 		font-size: 1.125rem;
 	}
-}
+}*/
 *, *::before, *::after {
 	box-sizing: inherit;
 }

@@ -3,10 +3,13 @@ siteDescr = "A personal blog to talk about my ideas, problems and solutions. I'm
 siteAuthor = "Jonathan Islas"
 
 siteTelegramUrl = "https://telegram.me/islas27"
+siteTwitterUrl = "https://twitter.com/islas_27"
 siteGithubUrl = "https://github.com/islas27"
 siteBitbucketUrl = "https://bitbucket.com/islas27"
-siteEmailUrl = "islas.27@gmail.com"
+siteEmailUrl = "mailto:islasjonathan27@gmail.com"
 
-googleAnalyticsId = ""
+googleAnalyticsId = "UA-92212026-1"
 
-linkPrefix = "/"
+currentLocation = "Chihuahua, MX"
+
+linkPrefix = "https://islas27.github.io"

@@ -35,8 +35,6 @@ class SitePost extends React.Component {
                   <hr></hr>
                   <p>
                     { config.siteDescr }
-                    <a href={ config.siteTwitterUrl }>
-                      <br></br> <strong>{ config.siteAuthor }</strong> on Twitter</a>
                   </p>
                 </div>
               </div>

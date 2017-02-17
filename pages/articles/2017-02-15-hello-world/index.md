@@ -11,10 +11,10 @@ My name is Jonathan, welcome to my personal blog.
 
 Here you'll find the following:
 
-1. rants
-2. development information, mostly focused on web development
-3. personal issues
-4. good news in my life
-5. and probably more rants, sometimes.
+1. Development information, mostly focused on web development
+2. Information & experiences about learning languages (I study/studied Japanese & Chinese)
+2. Maybe some personal issues
+3. Maybe good news in my life
+4. and probably rants, sometimes.
 
 Feel at home!

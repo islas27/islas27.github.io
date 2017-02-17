@@ -15,7 +15,7 @@ class SiteSidebar extends React.Component {
         let header = (
         <header>
           <Link style={ {    textDecoration: 'none',    borderBottom: 'none',    outline: 'none'} } to={ prefixLink('/') }>
-          <img src={prefixLink(profilePic)} width='75' height='75' />
+          <img src={prefixLink(profilePic)} width='80' height='80' />
           </Link>
           { isHome ? (
             <h1><Link style={ {    textDecoration: 'none',    borderBottom: 'none',    color: 'inherit'} } to={ prefixLink('/') }> { config.siteAuthor } </Link></h1>
@@ -23,6 +23,9 @@ class SiteSidebar extends React.Component {
             <h2><Link style={ {    textDecoration: 'none',    borderBottom: 'none',    color: 'inherit'} } to={ prefixLink('/') }> { config.siteAuthor } </Link></h2> }
           <p>
             { config.siteDescr }
+          </p>
+          <p className="location">
+            <i className="fa fa-map-marker"/> { config.currentLocation }
           </p>
         </header>
         )

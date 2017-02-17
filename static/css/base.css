@@ -16,6 +16,25 @@ a:focus {
 .main-inner {
 	padding: 40px 35px;
 }
+.primary, .primary-text {
+	color: #009688;
+}
+.light-primary, .light-primary-text{
+	color: #B2DFDB;
+}
+.warning, .warning-text{
+	color: #FF9800;
+}
+.danger, .text-danger{
+	color: #e51c23;
+}
+.info, .info-text{
+	color: #e51c23
+}
+.update-text{
+	font-style: italic;
+}
+
 @media screen and (max-width:1100px) {
 	.content {
 		lost-column: 2/4;

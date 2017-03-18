@@ -1,8 +1,7 @@
 {
   "version": "1.2.0",
   "name": "islas27.github.io",
-  "description": "Simple starter for Gatsby",
-  "main": "n/a",
+  "description": "Islas27 personal blog",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",

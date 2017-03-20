@@ -5,6 +5,8 @@ layout: post
 path: "/publishing-with-gatsby/"
 category: "Development"
 description: "Here I'll talk about using Gatsby to actually publish this blog"
+author: "Jonathan Islas"
+tags: "GatsbyJS,Development,Review,Beta"
 ---
 
 My oh my! I've finally got back to writing in this blog...

@@ -5,6 +5,7 @@ layout: post
 path: "/hello-world/"
 category: "Random"
 description: "This is the first post I write for my blog"
+author: "Jonathan Islas"
 ---
 
 My name is Jonathan, welcome to my personal blog.

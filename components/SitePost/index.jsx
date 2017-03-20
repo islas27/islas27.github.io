@@ -5,6 +5,7 @@ import { prefixLink } from 'gatsby-helpers'
 import access from 'safe-access'
 import { config } from 'config'
 import ReadNext from '../ReadNext'
+import MailMe from '../MailMe'
 import './style.css'
 import '../../static/css/highlight.css'
 
@@ -28,6 +29,7 @@ class SitePost extends React.Component {
                   <div dangerouslySetInnerHTML={ {    __html: post.body} } />
                   <div className='date-published'>
                     <em>Published { moment(post.date).format('D MMM YYYY') }</em>
+                    <MailMe post={ post }/>
                   </div>
                 </div>
                 <div className='footer'>
